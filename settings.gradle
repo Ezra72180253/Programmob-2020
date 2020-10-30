@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 include ':app'
+=======
+include ':app'
+>>>>>>> 91875d4... Init Project mobile 2020
 rootProject.name = "Progmob2020"
